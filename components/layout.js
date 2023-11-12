@@ -6,11 +6,11 @@ export default function Layout( { children, home } )
   return (
     <div>
       <Head>
-        <title>Week12 Next.js App</title>
+        <title>Week13 Next.js App</title>
       </Head>
       <header>
         <nav>
-          <h5>Week12</h5>
+          <h5>Week13</h5>
         </nav>
       </header>
       <main>
